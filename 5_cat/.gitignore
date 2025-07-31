@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.virtual_documents/
+tf_env/
+flower_classification_old.ipynb
+dataset/
+models/
+*.h5

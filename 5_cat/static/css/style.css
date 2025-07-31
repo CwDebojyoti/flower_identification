@@ -1,0 +1,28 @@
+.card-background {
+    background-image: url(../img/portfolio-1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: max(1200px, 100vw);
+    /* width: 100vw;
+    height: 750px; */
+    position: relative;
+    background-size: cover;   
+}
+
+
+.background {
+    background-image: url('../img/background.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;  /* Full screen height */
+  position: relative;
+  
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.2); /* white with 20% opacity */
+  backdrop-filter: blur(10px);               /* optional: glassy blur effect */
+  border: none;                              /* cleaner border */
+}
